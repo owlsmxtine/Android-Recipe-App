@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="title_home">Recipe</string>
+    <string name="title_dashboard">Recipe Details</string>
+    <string name="title_notifications">Recipe Categories "</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+</resources>
